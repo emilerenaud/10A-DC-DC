@@ -99,6 +99,78 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OGCAJEXC
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for 10ADCDC\Gerber\NC Drill\10ADCDC.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for 10ADCDC\Gerber\Gerber\10ADCDC.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for 10ADCDC\Gerber\Gerber\10ADCDC.G1
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for 10ADCDC\Gerber\Gerber\10ADCDC.G2
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for 10ADCDC\Gerber\Gerber\10ADCDC.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for 10ADCDC\Gerber\Gerber\10ADCDC.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for 10ADCDC\Gerber\Gerber\10ADCDC.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for 10ADCDC\Gerber\Gerber\10ADCDC.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for 10ADCDC\Gerber\Gerber\10ADCDC.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for 10ADCDC\Gerber\Gerber\10ADCDC.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for 10ADCDC\Gerber\Gerber\10ADCDC.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for 10ADCDC\Gerber\Gerber\10ADCDC.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for 10ADCDC\Gerber\Gerber\10ADCDC.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for 10ADCDC\Gerber\NC Drill\10ADCDC.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for 10ADCDC\Gerber\Gerber\10ADCDC.REP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for 10ADCDC\Gerber\Gerber\10ADCDC.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for 10ADCDC\Gerber\NC Drill\10ADCDC.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for 10ADCDC\Design Rule Check - 10ADCDC.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0

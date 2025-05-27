@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: 10ADCDC.PcbDoc   2024-04-18  13:53:57
+NCDrill File Report For: 10ADCDC.PcbDoc   2025-05-26  21:53:16
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,10 +7,9 @@ ASCII RoundHoles File : 10ADCDC.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.3mm (12mil)                                             Round             124       PTH        436.13mm (17.17inch)
-T2      1.5mm (59mil)                                             Round             4         PTH        57.00mm (2.24inch)
-T3      2.3mm (91mil)                                             Round             4         PTH        124.00mm (4.88inch)
+T1      0.3mm (12mil)                                             Round             110       PTH        209.13mm (8.23inch)
+T2      2.3mm (91mil)                                             Round             8         PTH        82.00mm (3.23inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              132
+Totals                                                                              118
 
 Total Processing Time (hh:mm:ss) : 00:00:00
